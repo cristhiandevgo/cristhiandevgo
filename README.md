@@ -8,7 +8,6 @@
 <body>
     
 <h1>Olá, eu sou o Cristhian!</h1>
-<hr>
 
 <div><p><b>🎓 Formação:</b></p></div>
     <div> ✅ Graduado em Engenharia de Computação pela UniEVANGÉLICA - Universidade Evangélica de Goiás.</div>
