@@ -9,6 +9,8 @@
     
 <h1>Olá, eu sou o Cristhian!</h1>
 
+[![Cristhian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristhiandevgo&theme=dracula)](https://github.com/cristhiandevgo/cristhiandevgo)
+	
 <div><p><b>🎓 Formação:</b></p></div>
     <div> ✅ Graduado em Engenharia de Computação pela UniEVANGÉLICA - Universidade Evangélica de Goiás.</div>
 
@@ -32,11 +34,18 @@
 <div><br></div>
 <div><p><b>📧 Contato:</b></p></div>
 <div>
-    <a href="mailto:ivancristhian@hotmail.com?subject=Olá Cristhian, eu gostaria de contratar os seus serviços." target="_blank" rel="noreferrer">
-        <label>ivancristhian@hotmail.com</label>
-    </a>
+<label>Mail: </label>
+<a href="mailto:ivancristhian@hotmail.com?subject=Olá Cristhian, eu gostaria de contratar os seus serviços." target="_blank" rel="noreferrer">
+	<label>ivancristhian@hotmail.com</label>
+</a>
+	
+<label>Site: </label>
+<a href="https://ivan-cristhian.web.app" target="_blank" rel="noreferrer">
+	<label>https://ivan-cristhian.web.app</label>
+</a>
+	
 </div>
-
+	
 </body>
 </html>
 
