@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,29 +12,28 @@
 [![Cristhian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristhiandevgo&theme=dracula)](https://github.com/cristhiandevgo/cristhiandevgo)
 
 <div><p><b>💼 Função:</b></p></div>
-    <div> ✅ Analista de Sistemas III.</div>
+    <div> ✅ Analista de Sistemas III</div>
 
 <div><br></div>
 <div><p><b>📖 Habilidades:</b></p></div>
-    <div> ✅ React, React Native, Node, PHP, Java, Spring Boot, JavaScript, HTML, CSS e Bash Script.</div>
-    <div> ✅ SQLite, MySQL e SQL Serve.</div>
-    <div> ✅ Arquitetura MVC.</div>
-    <div> ✅ Prática em Fábrica de Software com Scrum.</div>
-    <div> ✅ Programação Orientada a Objetos.</div>
-    <div> ✅ Git, Docker, etc.</div>
-    <div> ✅ Inglês – Leitura: Avançado | Escrita: Avançado | Fala: Básico.</div>
+    <div> ✅ React, React Native, Node, PHP, Java, Spring Boot, JavaScript, HTML, CSS e Bash Script</div>
+    <div> ✅ MySQL, Microsoft SQL Server e SQLite</div>
+    <div> ✅ Arquitetura MVC</div>
+    <div> ✅ Prática em Fábrica de Software com Scrum</div>
+    <div> ✅ Programação Orientada a Objetos</div>
+    <div> ✅ Git, Docker, etc</div>
+    <div> ✅ Inglês – Leitura: Avançado | Escrita: Avançado | Fala: Básico</div>
 
 <div><br></div>
     <div><p><b>📖 Plano de Estudos:</b></p></div>
     <div> ✅ DevOps com Docker, Kubernetes e Rancher</div>
-    <div> ✅ Java</div>
     <div> ✅ TypeScript</div>
     <div> ✅ Golang</div>
     
 <div><br></div>
-<div><p><b>📧 Contato:</b></p></div>
+<div><p><b>📧 Contato: </b></p></div>
 <div>
-<label>Mail: </label>
+<label>E-mail: </label>
 <a href="mailto:ivancristhian@hotmail.com?subject=Olá Cristhian, eu gostaria de contratar os seus serviços." target="_blank" rel="noreferrer">
 	<label>ivancristhian@hotmail.com</label>
 </a>
